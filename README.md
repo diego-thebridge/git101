@@ -28,5 +28,5 @@ Once you're in the location you want to be, in the terminal, use the command:
 
 It should look something like:
 
-<img src="Assets/clone_or_download.png">
+<img src="Assets/git_clone.png">
 
