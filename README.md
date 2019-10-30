@@ -15,7 +15,7 @@ The process of downloading a **repo** from a remote server to your local machine
 
 To clone a repo, first you need to copy the repo's URL as seen below.
 
-<img src="https://github.com/diego-thebridge/git101/blob/master/Assets/git_clone.png">
+<img src="Assets/clone_or_download.png">
 
 Move to where you want to place the project on your local machine using the ```cd``` (change directory) command. For instance if you have a 'projects' folder on your desktop, you'd do something like
 ```cd ~/Desktop/projects```
