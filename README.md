@@ -25,3 +25,8 @@ When you clone a repo, it downloads a brand new folder which contains all the fi
 Once you're in the location you want to be, in the terminal, use the command:
 
 ```git clone https://github.com/diego-thebridge/git101```
+
+It should look something like:
+
+<img src="Assets/clone_or_download.png">
+
